@@ -2,7 +2,7 @@
 
 我是一个对各种技术充满热情的小白！你可以[请我喝杯咖啡](https://blog.811520.xyz/thanks/)，我将与你分享更多好玩的项目！
 
-[![我的博客](https://img.shields.io/badge/my_blog-我的博客-8A2BE2)](https://blog.811520.xyz)&nbsp;&nbsp;&nbsp;&nbsp;[![图床服务](https://img.shields.io/badge/img_bed-图床服务-8A2BE2)](https://img.811520.xyz/)&nbsp;&nbsp;&nbsp;&nbsp;[![短链服务](https://img.shields.io/badge/webssh-在线ssh服务-8A2BE2)](https://ssh.yuzong.nyc.mn/)&nbsp;&nbsp;&nbsp;&nbsp;[![项目导航](https://img.shields.io/badge/my_project-项目导航-8A2BE2)](https://s8nav.yuchen.ggff.net/)
+[![我的博客](https://img.shields.io/badge/my_blog-我的博客-8A2BE2)](https://blog.811520.xyz)&nbsp;&nbsp;&nbsp;&nbsp;[![图床服务](https://img.shields.io/badge/img_bed-图床服务-8A2BE2)](https://img.811520.xyz/)&nbsp;&nbsp;&nbsp;&nbsp;[![短链服务](https://img.shields.io/badge/webssh-在线ssh服务-8A2BE2)](https://ssh.yuzong.nyc.mn/)&nbsp;&nbsp;&nbsp;&nbsp;[![项目导航](https://img.shields.io/badge/my_project-项目导航-8A2BE2)](https://daoyi.hidns.vip/#/)
 
 <!--
 **yutian81/yutian81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
